@@ -1,0 +1,16 @@
+{
+  "name": "catlive",
+  "version": "1.0.0",
+  "description": "a spider practice for bilibili up catlive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "redis": "^2.8.0"
+  }
+}
